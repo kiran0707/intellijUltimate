@@ -150,3 +150,4 @@ You can use the other Kubernetes run target to build the image and deploy the pr
 
 (coming soon)
 
+# intellijUltimate
